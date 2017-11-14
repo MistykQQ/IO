@@ -1,0 +1,7 @@
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\bin\Debug\IO_Lab1_zad5.exe.config
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\bin\Debug\IO_Lab1_zad5.exe
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\bin\Debug\IO_Lab1_zad5.pdb
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\obj\Debug\IO_Lab1_zad5.csprojResolveAssemblyReference.cache
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\obj\Debug\IO_Lab1_zad5.csproj.CoreCompileInputs.cache
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\obj\Debug\IO_Lab1_zad5.exe
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad5\obj\Debug\IO_Lab1_zad5.pdb

@@ -1,0 +1,12 @@
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad2\bin\Debug\IO_Lab1_zad2.exe.config
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad2\bin\Debug\IO_Lab1_zad2.exe
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad2\bin\Debug\IO_Lab1_zad2.pdb
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad2\obj\Debug\IO_Lab1_zad2.exe
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad2\obj\Debug\IO_Lab1_zad2.pdb
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\bin\Debug\IO_Lab1_zad2.exe.config
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\bin\Debug\IO_Lab1_zad2.exe
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\bin\Debug\IO_Lab1_zad2.pdb
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\obj\Debug\IO_Lab1_zad2.csprojResolveAssemblyReference.cache
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\obj\Debug\IO_Lab1_zad2.csproj.CoreCompileInputs.cache
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\obj\Debug\IO_Lab1_zad2.exe
+C:\Users\Mistyk\Desktop\IO_Lab1\IO_Lab1_zad2\obj\Debug\IO_Lab1_zad2.pdb

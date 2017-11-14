@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1\bin\Debug\IO_Lab1.exe.config
+c:\users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1\bin\Debug\IO_Lab1.exe
+c:\users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1\bin\Debug\IO_Lab1.pdb
+c:\users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1\obj\Debug\IO_Lab1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1\obj\Debug\IO_Lab1.exe
+c:\users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1\obj\Debug\IO_Lab1.pdb

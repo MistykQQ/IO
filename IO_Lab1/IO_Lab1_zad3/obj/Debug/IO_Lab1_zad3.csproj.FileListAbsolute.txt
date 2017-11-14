@@ -1,0 +1,5 @@
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad3\bin\Debug\IO_Lab1_zad3.exe.config
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad3\bin\Debug\IO_Lab1_zad3.exe
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad3\bin\Debug\IO_Lab1_zad3.pdb
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad3\obj\Debug\IO_Lab1_zad3.exe
+c:\Users\student\documents\visual studio 2017\Projects\IO_Lab1\IO_Lab1_zad3\obj\Debug\IO_Lab1_zad3.pdb
