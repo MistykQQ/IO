@@ -1,0 +1,7 @@
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\bin\Debug\IO_Lab2_zad3.exe.config
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\bin\Debug\IO_Lab2_zad3.exe
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\bin\Debug\IO_Lab2_zad3.pdb
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\obj\Debug\IO_Lab2_zad3.csproj.CoreCompileInputs.cache
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\obj\Debug\IO_Lab2_zad3.exe
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\obj\Debug\IO_Lab2_zad3.pdb
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad3\obj\Debug\IO_Lab2_zad3.csprojResolveAssemblyReference.cache

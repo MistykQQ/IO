@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\bin\Debug\IO_Lab2_zad2.exe.config
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\bin\Debug\IO_Lab2_zad2.exe
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\bin\Debug\IO_Lab2_zad2.pdb
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.exe
+C:\Users\student\source\repos\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.pdb
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\bin\Debug\IO_Lab2_zad2.exe.config
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\bin\Debug\IO_Lab2_zad2.exe
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\bin\Debug\IO_Lab2_zad2.pdb
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.csprojResolveAssemblyReference.cache
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.csproj.CoreCompileInputs.cache
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.exe
+C:\Users\Mistyk\Desktop\IO_Lab2\IO_Lab2_zad2\obj\Debug\IO_Lab2_zad2.pdb
