@@ -1,0 +1,7 @@
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\bin\Debug\IO_Lab3_zad1.exe.config
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\bin\Debug\IO_Lab3_zad1.exe
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\bin\Debug\IO_Lab3_zad1.pdb
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\obj\Debug\IO_Lab3_zad1.csprojResolveAssemblyReference.cache
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\obj\Debug\IO_Lab3_zad1.csproj.CoreCompileInputs.cache
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\obj\Debug\IO_Lab3_zad1.exe
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad1\obj\Debug\IO_Lab3_zad1.pdb

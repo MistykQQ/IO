@@ -1,0 +1,12 @@
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad\bin\Debug\IO_Lab3_zad.exe.config
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad\bin\Debug\IO_Lab3_zad.exe
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad\bin\Debug\IO_Lab3_zad.pdb
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad\obj\Debug\IO_Lab3_zad.csproj.CoreCompileInputs.cache
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad\obj\Debug\IO_Lab3_zad.exe
+C:\Users\s0158291\source\repos\IO_Lab3_zad1\IO_Lab3_zad\obj\Debug\IO_Lab3_zad.pdb
+C:\Users\Maciej\Desktop\IO_Lab3\IO_Lab3_zad\bin\Debug\IO_Lab3_zad.exe.config
+C:\Users\Maciej\Desktop\IO_Lab3\IO_Lab3_zad\bin\Debug\IO_Lab3_zad.exe
+C:\Users\Maciej\Desktop\IO_Lab3\IO_Lab3_zad\bin\Debug\IO_Lab3_zad.pdb
+C:\Users\Maciej\Desktop\IO_Lab3\IO_Lab3_zad\obj\Debug\IO_Lab3_zad.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\IO_Lab3\IO_Lab3_zad\obj\Debug\IO_Lab3_zad.exe
+C:\Users\Maciej\Desktop\IO_Lab3\IO_Lab3_zad\obj\Debug\IO_Lab3_zad.pdb
